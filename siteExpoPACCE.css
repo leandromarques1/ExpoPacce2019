@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+
+body
+{
+	font-family: 'Noto Sans', sans-serif;
+	color: white;
+	font-size: 25px;
+	text-align: justify;
+}
+
+h2
+{
+	font-size: 40px;
+}
+
+footer
+{
+	color: black;
+}
+/*
+body 
+{
+	width: 100%;
+	padding-top: 50%;
+	background-image: url("imgExpo/logoexpo2.png");
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+}*/
+
+.descrição p {
+	max-width: 70%;
+}
